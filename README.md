@@ -1,2 +1,2 @@
-# TecFlix-
-TecFlix es una aplicación para visualizar metadata y trailers de peliculas o series de televisión. 
+# TecFlix
+Aplicación para visualizar metadata y trailers de películas o series de televisión
